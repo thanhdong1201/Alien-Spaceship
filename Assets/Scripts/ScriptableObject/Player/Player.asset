@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7e94667ac2ba8488874522b6efbb3e, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  maxHealth: 1
+  shieldTime: 5
+  speed: 6
+  defaultProjectitlePrefab: {fileID: 8436033363320056364, guid: 983b25e62a27dbe4584138b5045c9a91, type: 3}
+  currentProjectitlePrefab: {fileID: 8436033363320056364, guid: 983b25e62a27dbe4584138b5045c9a91, type: 3}
+  explosionFX: {fileID: 6107858796960057488, guid: 6081a0ed2bfdb4147b4c39800c6ba2b2, type: 3}
+  shootSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
+  destroySound: {fileID: 8300000, guid: 913d6445ee8cc4152a9c18da590ee203, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0988ec1d6d3d64fa064497693b709c, type: 3}
+  m_Name: Enemy 7
+  m_EditorClassIdentifier: 
+  maxHealth: 9
+  speed: 2.5
+  range: 3.8
+  resetShoot: 2.5
+  projectitlePrefab: {fileID: 2453124822698361906, guid: 70a25d4ab7ad55f4e81905fd08e87d08, type: 3}
+  scoreCanGet: 40
+  explosionFX: {fileID: 6107858796960057488, guid: 6081a0ed2bfdb4147b4c39800c6ba2b2, type: 3}
